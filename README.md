@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou a Carol! 👋
+Cientista de Dados | Engenheira Elétrica | Mestranda PPGI/UFRJ
 
-<!--
-**olivenbaum-dev/olivenbaum-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo na intersecção entre a Engenharia e a Ciência de Dados, transformando problemas complexos em soluções automatizadas e inteligentes.
 
-Here are some ideas to get you started:
+🎓 Mestrado em Informática (UFRJ): Pesquisa voltada para análise de dados de solos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Engenharia Elétrica (UERJ) & Sistemas de Informação (UFRRJ).
+
+🛠️ Foco técnico: Python (Pandas, Scikit-Learn), IA (Agentes e LLMs), Pipelines de Dados e Engenharia de Requisitos.
+
+🌱 Projeto Principal: Olivenbaum-tech - Automação de cuidados para bonsais.
+
+📫 Contatos: LinkedIn | carolineoliveira.dev@gmail.com
+
