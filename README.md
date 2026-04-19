@@ -1,5 +1,5 @@
 ## Olá, eu sou a Carol! 👋
-Cientista de Dados | Engenheira Elétrica | Mestranda PPGI/UFRJ
+Cientista de Dados | Engenheira Eletricista | Mestranda PPGI/UFRJ
 
 Atuo na intersecção entre a Engenharia e a Ciência de Dados, transformando problemas complexos em soluções automatizadas e inteligentes.
 
